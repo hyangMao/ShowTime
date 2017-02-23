@@ -1,2 +1,4 @@
 # ShowTime
-nice
+hello!
+
+I like open source!
